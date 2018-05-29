@@ -1,0 +1,5 @@
+
+
+Mesh: Suzanne  verts: 2748 tris: 16128
+- GameObject 96
+- DrawMeshInstanced 201
